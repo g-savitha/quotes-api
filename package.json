@@ -1,0 +1,23 @@
+{
+  "name": "bhagavadgita-api",
+  "version": "1.0.0",
+  "description": "Quotes from bhagavadgita",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-savitha/bhagavdgita-quotes-api.git"
+  },
+  "author": "Savitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-savitha/bhagavdgita-quotes-api/issues"
+  },
+  "homepage": "https://github.com/g-savitha/bhagavdgita-quotes-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
