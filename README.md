@@ -1,1 +1,1 @@
-# Bhagavadgita Quotes
+# Quotes API
